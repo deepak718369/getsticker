@@ -1,0 +1,13 @@
+{
+    "database": {
+        "DB_Host":"localhost",
+        "DB_Port":"5432",
+        "DB_User":"database",
+        "DB_Password":"admin",
+       "DB_Name":"postgres"
+    },
+    "server": {
+        "address": ":9090"
+      }
+  }
+
